@@ -13,6 +13,10 @@ namespace cSharpFundamentals.Models
         public void Presentation()
         {
             Console.WriteLine($"Hello! I am {Name} and I am {Age} years old");
+            //Another possibility
+            Console.WriteLine($"Hello! I am {Name} " +
+                                $"and I am {Age} years old");
+
         }
     }
 }

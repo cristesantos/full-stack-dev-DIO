@@ -24,3 +24,30 @@ DIO Course - XP Inc. - Full Stack Developer - oct24
 * Os arquivos de Debug são gerados na pasta obj
 * Para buildar o código: dotnet build
     Os arquivos são gerados na pasta bin
+
+### New class .net C#
+* Organize by creating a new folder called Models
+* Right click on Models and New C# -> class
+* Inside the class, type prop to have the atribute template
+* use the namespace to better organize the code
+* when instanciate new class, call the name space like: using projectName.Models
+
+### Names convention
+* PascalCase: first letters cappital letter (upper case)
+* camelCase: first letters lower case
+* Do not abbreviate the attributes name
+* Use the same file name for the class name
+* Do not use special characters for the names (just undescore is allowed)
+* Class name: PascalCase
+* Method name: PascalCase
+* Variable: camelCase
+
+### Work with data - DateTime library
+* DateTime.Now - The current date and time from system
+* DateTime.AddDays(N) - Add N days to the current date
+
+### Converting types
+* Use the class Convert
+    int a = Convert.ToInt32("5")
+* All usual types have the method ToString() - varInt.ToString()
+*
