@@ -1,0 +1,15 @@
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\bin\Debug\net8.0\cSharpFundamentals.exe
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\bin\Debug\net8.0\cSharpFundamentals.deps.json
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\bin\Debug\net8.0\cSharpFundamentals.runtimeconfig.json
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\bin\Debug\net8.0\cSharpFundamentals.dll
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\bin\Debug\net8.0\cSharpFundamentals.pdb
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.AssemblyInfoInputs.cache
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.AssemblyInfo.cs
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.sourcelink.json
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.dll
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\refint\cSharpFundamentals.dll
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.pdb
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\cSharpFundamentals.genruntimeconfig.cache
+C:\Projetos\full-stack-dev-DIO\cSharpFundamentals\obj\Debug\net8.0\ref\cSharpFundamentals.dll
