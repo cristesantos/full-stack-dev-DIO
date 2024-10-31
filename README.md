@@ -59,7 +59,7 @@ DIO Course - XP Inc. - Full Stack Developer - oct24
 * To reference a project inside another one: right click on the csproject file that is going to use something from the other project, then click on Reference...
 * The main method is implicit since NET6. You can see the "main" explicitly on .NET5 project
 
-### Array and List
+### Array
 * Array
     int[] arrayInt = new int[3]
     arrayInt.Length
@@ -74,4 +74,13 @@ DIO Course - XP Inc. - Full Stack Developer - oct24
     int[] arrayIntDouble = Array.Resize(ref arrayInt, arrayInt.Length*2)
 * Copy one array to another one
     Array.Copy(arrayInt, arrayIntDouble, arrayInt.Length)
-    
+
+### List
+* The main difference to array is that you don´t need to resize ti include more elements. you just include and the list resizes itself.
+    List<string> listString = new List<string>();
+    listString.Add("MG")
+    listString.Add("SP")
+    listString.Add("BA")
+
+    listString.Remove("SP")
+* Better use foreach in place of for loop
